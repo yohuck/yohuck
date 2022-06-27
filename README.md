@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @yohuck
 - 👀 I’m interested in CSS art & responsive web design.
-- 🌱 I’m currently learning Node.js, Mocha, and React
+- 🌱 I’m currently learning Node.js, Mocha, React, & Svelte
 - 📫 You can reach me at ericallenlake@gmail.com
