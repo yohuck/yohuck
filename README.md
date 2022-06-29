@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yohuck
 - 👀 I’m interested in responseive design & data visualization
 - 🌱 I’m currently learning Node.js, Mocha, React, & Svelte
-- 💼 My background is in customer operatioins
+- 💼 My background is in customer operations
 - 📫 You can reach me at ericallenlake@gmail.com
