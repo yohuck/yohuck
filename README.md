@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yohuck
 - 👀 I’m interested in responsive design & data visualization
-- 🌱 I’m currently learning MongoDB, Svelte, and D3
+- 🌱 I’m currently learning TypeScript
 - 💼 I have a background in customer operations
 - 📫 You can reach me at ericallenlake@gmail.com
