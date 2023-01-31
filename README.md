@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @yohuck
-- 👀 I’m interested in responsive design & data visualization
-- 🌱 I’m currently learning TypeScript
-- 💼 I have a background in customer operations
+- 🖥️ I work at TimeValue Software writing JavaScript, C#, and CSS
 - 📫 You can reach me at ericallenlake@gmail.com
