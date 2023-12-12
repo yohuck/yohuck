@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @yohuck
-- 🖥️ I work at TimeValue Software writing JavaScript, C#, and CSS
+- 🖥️ I'm a full stack web developer at TimeValue Software
+- 📽️ I create developer content on [TikTok](https://www.tiktok.com/@eric.lake)
 - 📫 You can reach me at ericallenlake@gmail.com
