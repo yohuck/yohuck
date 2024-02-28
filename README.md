@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @yohuck
-- 🖥️ I'm a full stack web developer at TimeValue Software
+- 🖥️ I'm a front-end developer at Qlik.
 - 📽️ I create developer content on [TikTok](https://www.tiktok.com/@eric.lake)
 - 📫 You can reach me at ericallenlake@gmail.com
