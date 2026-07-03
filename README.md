@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @yohuck
-- 🖥️ I'm a front-end developer at Qlik.
+- 🖥️ I'm a Soultions Architect at PubNub
 - 📽️ I create developer content on [TikTok](https://www.tiktok.com/@eric.lake)
 - 📫 You can reach me at ericallenlake@gmail.com
